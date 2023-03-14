@@ -1,0 +1,8 @@
+@inproceedings{REPO-095,
+    author = "Ouyang, Cheng and Biffi, Carlo and Chen, Chen and Kart, Turkay and Qiu, Huaqi and Rueckert, Daniel",
+    booktitle = "Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XXIX 16",
+    organization = "Springer",
+    pages = "762--780",
+    title = "{Self-Supervision with Superpixels:Training Few-Shot Medical Image Segmentation without Annotation}",
+    year = "2020"
+}
